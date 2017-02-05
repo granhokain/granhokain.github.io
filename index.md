@@ -1,4 +1,5 @@
 ![Image](/images/world-community-grid.jpg)
+
 ## O que é World Community Grid ?
 
 O [World Community Grid](https://www.worldcommunitygrid.org/discover.action#what-if) é um projeto mundial da IBM para criar o maior supercomputador do mundo, para ser utilizado em pesquisas científicas em benefício da humanidade através do processamento distribuído.
