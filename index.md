@@ -1,12 +1,14 @@
-## O que é World Community Grid
+## O que é World Community Grid ?
 
-É um projeto mundial da IBM para criar o maior supercomputador do mundo, para ser utilizado em pesquisas científicas em benefício da humanidade através do processamento distribuído.
+O [World Community Grid](https://www.worldcommunitygrid.org/discover.action#what-if) é um projeto mundial da IBM para criar o maior supercomputador do mundo, para ser utilizado em pesquisas científicas em benefício da humanidade através do processamento distribuído.
 
-Em resumo o processamento distribuído ou paralelo é um sistema que interliga vários nós de processamento (computadores individuais, não necessáriamente homogêneos) de maneira que um processo de grande consumo seja executado no nó "mais disponível", ou mesmo subdividido por vários nós. Clique no link e veja mais informações sobre como funciona [Processamento Distribuído](https://http://pt.slideshare.net/adrianots/2-sd-conceitossistemas-distribuidos-e-paralelos) .
+Em resumo o processamento distribuído ou paralelo é um sistema que interliga vários nós de processamento (computadores individuais, não necessáriamente homogêneos) de maneira que um processo de grande consumo seja executado no nó "mais disponível", ou mesmo subdividido por vários nós. Clique no link e veja mais informações sobre como funciona [Processamento Distribuído](http://pt.slideshare.net/adrianots/2-sd-conceitossistemas-distribuidos-e-paralelos) .
 
-### Markdown
+### Como funciona é muito simples
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+O software World Community Grid utiliza o tempo ocioso de computadores pessoais para realizar projeções e cálculos, divindo assim o trabalho em milhares de computadores espalhados pelo mundo.
+
+Se um computador está utilizando, por exemplo, apenas 60% da sua capacidade de processamento, o World Community Grid utiliza os 40% restantes e ajusta este percentual conforme a variação da capacidade ociosa do computador. Também existe a possibilidade de configurar o software para funcionar como descanso de tela, utilizando apenas os recursos do computador quando ele está ligado mas não está em uso.
 
 ```markdown
 Syntax highlighted code block
