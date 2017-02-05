@@ -19,9 +19,10 @@ Os usuários podem ainda se unir a times que são criados por organizações, em
 ```markdown
 CONCLUÍDOS:
 * Varíola
-Projeto lançado patrocinado pela IBM em conjunto com outros participantes.
-Ajudou a analisar o potencial de candidatos à drogas para terapia do vírus da varíola.
-35 milhões de moléculas com potencial de ação foram processadas, resultando em 44 tratamentos potenciais.
+Projeto patrocinado pela IBM em conjunto com outros participantes.
+Analisou o potencial de candidatos à drogas para terapia do vírus da varíola.
+35 milhões de moléculas com potencial de ação processadas.
+O projeto acabou resultando em 44 tratamentos potenciais.
 
 * Human Proteome Folding Project
 Primeiro projeto de maior efeito foi o Human Proteome Folding Project, ou HPF1.
