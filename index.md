@@ -10,12 +10,17 @@ O software World Community Grid utiliza o tempo ocioso de computadores pessoais 
 
 Se um computador está utilizando, por exemplo, apenas 60% da sua capacidade de processamento, o World Community Grid utiliza os 40% restantes e ajusta este percentual conforme a variação da capacidade ociosa do computador. Também existe a possibilidade de configurar o software para funcionar como descanso de tela, utilizando apenas os recursos do computador quando ele está ligado mas não está em uso.
 
-```markdown
-Syntax highlighted code block
+O World Community Grid oferece múltiplos projetos humanitários para a participação utilizando um mesmo software. Os projetos são escolhidos criteriosamente por membros de grandes instituições de pesquisa e universidades do mundo inteiro.
+Os usuários podem ainda se unir a times que são criados por organizações, empresas ou por usuários individuais. Os times proporcionam um clima de competição, beneficiando os projetos.
 
-# Header 1
-## Header 2
-### Header 3
+### Projetos concluídos e ativos
+```markdown
+Concluídos:
+#### Varíola
+O primeiro projeto lançado foi patrocinado pela IBM em conjunto com diversos outros participantes. Ele ajudou a analisar o potencial de candidatos à drogas para terapia do vírus da varíola. 35 milhões de moléculas com potencial de ação foram processadas, resultando em 44 tratamentos potenciais.
+
+#### Human Proteome Folding Project
+O primeiro projeto de maior efeito lançado foi o Human Proteome Folding Project, ou HPF1, que visava predizer a estrutura de proteínas humanas. Desenvolvido por Richard Bonneau no Institute for Systems Biology, o projeto utilizou o World Community Grid para produzir estruturas utilizando o software Rosetta. A partir deste resultados, os pesquisadores esperam ajudar no entendimento das proteínas humanas e seu funcionamento no organismo (o que é de vital importância para a cura de inúmeras doenças). O trabalho neste projeto foi oficialmente concluído em 18 de Julho de 2006.
 
 - Bulleted
 - List
