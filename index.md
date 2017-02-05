@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## O que é World Community Grid
 
-You can use the [editor on GitHub](https://github.com/granhokain/granhokain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+É um projeto mundial da IBM para criar o maior supercomputador do mundo, para ser utilizado em pesquisas científicas em benefício da humanidadeYou can use the [editor on GitHub](https://github.com/granhokain/granhokain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
