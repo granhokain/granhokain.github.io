@@ -17,17 +17,14 @@ Os usuários podem ainda se unir a times que são criados por organizações, em
 ### Projetos concluídos e ativos
 ```markdown
 Concluídos:
-**Varíola**
-O primeiro projeto lançado foi patrocinado pela IBM em conjunto com diversos outros participantes.
-Ele ajudou a analisar o potencial de candidatos à drogas para terapia do vírus da varíola.
+Varíola
+projeto lançado patrocinado pela IBM em conjunto com outros participantes.
+Ajudou a analisar o potencial de candidatos à drogas para terapia do vírus da varíola.
 35 milhões de moléculas com potencial de ação foram processadas, resultando em 44 tratamentos potenciais.
 
-**Human Proteome Folding Project**
-O primeiro projeto de maior efeito foi o Human Proteome Folding Project, ou HPF1.
+Human Proteome Folding Project
+Primeiro projeto de maior efeito foi o Human Proteome Folding Project, ou HPF1.
 O projeto visava predizer a estrutura de proteínas humanas.
-Desenvolvido por Richard Bonneau no Institute for Systems Biology.
-O projeto utilizou o World Community Grid para produzir estruturas utilizando o software Rosetta.
-A partir deste resultados, os pesquisadores esperam ajudar no entendimento das proteínas humanas.
 O trabalho neste projeto foi oficialmente concluído em 18 de Julho de 2006.
 
 - Bulleted
