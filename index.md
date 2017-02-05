@@ -47,7 +47,7 @@ Anunciado em 16 de Novembro de 2004 pela IBM, o World Community Grid inicialment
 
 Em 22 de janeiro de 2008 o World Community Grid anunciou que possuía aproximadamente 355.000 associados com quase 880.000 computadores participantes. Totalizando mais de 137.000 anos de processamento.
 
-### Support or Contact
+### Computação do Bem !
 
 Fazendo parte do grupo **Computação do Bem** a **Unit - Universidade Tiradentes** faz sua parte contribuindo com ajuda de seus alunos no incentivo e compartilhamento de processamento para um futuro melhor para a humanidade. 
 
