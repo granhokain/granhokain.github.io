@@ -1,8 +1,8 @@
 ## O que é World Community Grid
 
-É um projeto mundial da IBM para criar o maior supercomputador do mundo, para ser utilizado em pesquisas científicas em benefício da humanidade.
+É um projeto mundial da IBM para criar o maior supercomputador do mundo, para ser utilizado em pesquisas científicas em benefício da humanidade através do processamento distribuído.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Em resumo o processamento distribuído ou paralelo é um sistema que interliga vários nós de processamento (computadores individuais, não necessáriamente homogêneos) de maneira que um processo de grande consumo seja executado no nó "mais disponível", ou mesmo subdividido por vários nós. Clique no link e veja mais informações sobre como funciona [Processamento Distribuído](https://http://pt.slideshare.net/adrianots/2-sd-conceitossistemas-distribuidos-e-paralelos) .
 
 ### Markdown
 
